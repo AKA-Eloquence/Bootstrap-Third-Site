@@ -1,1 +1,1 @@
-https://osmanenayat.github.io/Bootstrap-Third-Site/
+https://aka-eloquence.github.io/Bootstrap-Third-Site/
